@@ -1,0 +1,26 @@
+# --- Your media and everything generated from it (large, personal) ---
+media/
+input/*
+!input/.gitkeep
+frames/*
+!frames/.gitkeep
+reconstruction/*
+!reconstruction/.gitkeep
+output/*
+!output/.gitkeep
+renders/*
+!renders/.gitkeep
+camera/*
+!camera/.gitkeep
+!camera/example_path.json
+
+# --- Downloaded tools (re-created by setup.ps1) ---
+tools/
+
+# --- Caches ---
+# Brush GPU autotune cache
+target/
+__pycache__/
+*.pyc
+*.log
+*.err

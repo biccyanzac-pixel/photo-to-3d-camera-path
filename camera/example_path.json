@@ -1,0 +1,10 @@
+{
+ "fps": 30,
+ "frames": 120,
+ "smoothness": 1,
+ "keys": [
+  {"frame": 0,   "position": [1.0, 0.0, -3.0], "target": [0.0, 0.0, 0.0], "fov": 50},
+  {"frame": 60,  "position": [0.0, 0.3, -2.5], "target": [0.0, 0.0, 0.0], "fov": 50},
+  {"frame": 119, "position": [-1.0, 0.0, -3.0], "target": [0.0, 0.0, 0.0], "fov": 50}
+ ]
+}
